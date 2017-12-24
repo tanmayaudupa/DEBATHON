@@ -1,0 +1,12 @@
+.a{background-color:black;height:12%}
+.b{background-color:purple;height:2%}
+.vl {
+    border-right: 2px solid silver;
+    height: 495px;
+    position: absolute;
+    left:15%;
+    top:18%;
+    
+    margin-left: 3px;
+    
+}

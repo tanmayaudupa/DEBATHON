@@ -1,0 +1,22 @@
+.a{background-color:black;height:12%}
+.b{background-color:purple;height:2%}
+.vl {
+    border-right: 2px solid silver;
+    height: 495px;
+    position: absolute;
+    left:15%;
+    top:18%;
+    
+    margin-left: 3px;
+    
+}
+.main{
+	box-shadow: 10px 10px 5px grey;
+	background-color:black;height:12%;
+	border-radius: 25px;
+}
+.main2{
+	box-shadow: 10px 10px 5px grey;
+	background-color:pink;height:12%;
+	border-radius: 25px;
+}
